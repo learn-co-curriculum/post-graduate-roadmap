@@ -64,9 +64,10 @@ Here is an example of what this weekly calendar might look like:
 
 | Monday        | Tuesday           | Wednesday  | Thursday | Friday |
 | :---: | :---: | :---: | :---: | :---: |
-| Contact 4 individuals at prospective employers | | Contact 4 individuals at prospective employers | | |
-| Start researching blog post topic | Start writing blog post | Finish blog post and publicize | | |
-| | | Commit to personal GitHub projects | Commit to personal GitHub projects | Commit to personal GitHub projects |
+| Build a small app or add a feature to a project (Git commits) | Finish app of feature | | | |
+| | Write a blog post about the project to crystalize your learning | | | |
+| | | Finish writing your post and share it with others | | |
+| | | | Share a link to your latest post with your prospective employers | Finish contacting all 8 prospective employers |
 
 Or, if you're feeling ambitious you might want to front-load even more:
 
