@@ -109,6 +109,9 @@ an offer on the spot.
 Plan your weeks in such a way that you get to learn something new, practice it,
 write about it, and share it with others as you continue to expand your network.
 
+If you aren’t sure about where to start, or what skills to begin improving,
+[check out this article for some ideas](https://dev.to/256hz/so-you-ve-finished-bootcamp-are-you-employable-1n9l).
+
 ## Mapping Out the Road Ahead
 
 A job search can take time, and while it’s hard to know exactly how much time -
@@ -212,3 +215,7 @@ The greatest challenge during this time isn't learning and improving skills.
 You've already proven you can do that. The greatest challenge is developing the
 habits you will need to continually work towards your goals.  In case you
 haven’t heard this lately, you’re doing a great job.  Keep at it.
+
+## Resources
+
+- [So, You've Finished Bootcamp. Are You Employable?](https://dev.to/256hz/so-you-ve-finished-bootcamp-are-you-employable-1n9l)
